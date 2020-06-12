@@ -9,4 +9,6 @@ If anyone find a logical error
 please create a issue or make a pull request
 
 
-Thankyou.
+Find me in [Linkedin](https://www.linkedin.com/in/gowtham-s-516433182) and [HackerRank](https://www.hackerrank.com/gowtham758550)
+
+Thankyou
