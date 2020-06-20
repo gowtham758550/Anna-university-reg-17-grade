@@ -7,7 +7,7 @@ input.
 
 ## ***Screenshots***
 ![](https://github.com/gowtham758550/Anna-university-reg-17-grade/blob/master/Screenshot/Screenshot_20200620-222132~2.png)
-
+![](https://github.com/gowtham758550/Anna-university-reg-17-grade/blob/master/Screenshot/Screenshot_20200620-222201~2.png)
 
 ## ***Need a demo before clone***
 If you like to take a little demo<br>
