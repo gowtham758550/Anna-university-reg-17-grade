@@ -14,7 +14,7 @@ If you like to take a little demo<br>
 [![Run on Repl.it](https://repl.it/badge/github/gowtham758550/Anna-university-reg-17-grade)](https://repl.it/github/gowtham758550/Anna-university-reg-17-grade)
 
 ## ***criteria***
-* This program follows the criteria of regulation 17
+* This program follows the criteria of regulation 17 Anna University
 
 ## ***welcome***
 * If anyone find a logical error 
