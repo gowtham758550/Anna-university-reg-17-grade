@@ -1,5 +1,9 @@
 # Anna-university-reg-17-grade
 
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+</p>
+
 ## ***What is this?***
 * A python program that find the minimum external marks for 
 each grade with the student current internal mark as a 
